@@ -72,6 +72,9 @@
 }
 
 @media(max-width:768px){
+    .humidity{
+        margin-top: 50px;
+    }
     .centerdegree{
         text-align: center;
     }
