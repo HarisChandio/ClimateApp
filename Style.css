@@ -1,0 +1,81 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+#img{
+    border-radius: 200px!important;
+}
+#b{
+    border-top: 2px solid red;
+}
+#ca{
+    border-top: 2px solid red !important;
+}
+#img2{
+    border-radius: 100px;
+}
+#pokm{
+    margin: 0;
+    padding: 0;
+}
+.textSarifBold{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.text-body-tertiary{
+    float:left;
+    padding: 7px;
+    margin: 5px;
+    word-spacing: 30px;
+    border-radius: 13px;
+    background: rgb(224, 222, 222);
+}
+#lkl{
+    margin: 5px;
+}
+.plo{
+    float: left;
+    font-size: 20px;
+    margin: 5px;
+}
+.card-p{
+    color:gray !important;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.cardmidtext{
+    font-size: 2.2rem;
+    font-weight: bold;
+    
+}
+
+.cardend{
+    margin-left: 4px;
+    font-size: 0.8rem;
+    font-weight: 800;
+}
+
+.meter{
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: gray;
+    margin: 0px;
+}
+
+.leftsection{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.rightsection{
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+@media(max-width:768px){
+    .leftsection{
+        border-radius: 0px;
+    }
+    .rightsection{
+        border-radius: 0px;
+    }
+}
