@@ -1,6 +1,7 @@
 # Weather Dashboard Web Application
-![image](https://github.com/HarisChandio/ClimateApp/assets/86180280/25f4695f-293f-41bf-b4fb-fa287a30ea16)
 ![image](https://github.com/HarisChandio/ClimateApp/assets/86180280/a2ed6d6d-5bca-4375-ab29-b384b7017ff8)
+![image](https://github.com/HarisChandio/ClimateApp/assets/86180280/fabd8ab3-f8f2-4455-b148-74a8e0e1a74b)
+
 ![image](https://github.com/HarisChandio/ClimateApp/assets/86180280/c844deff-4959-4194-b921-16cfea6515b7)
 
 This repository contains the source code for a Weather Dashboard web application. The application provides real-time weather information and highlights for a selected location. It utilizes HTML, CSS, Bootstrap, and JavaScript to create a user-friendly and visually appealing interface.
