@@ -72,6 +72,9 @@
 }
 
 @media(max-width:768px){
+    .centerdegree{
+        text-align: center;
+    }
     .leftsection{
         border-radius: 0px;
     }
